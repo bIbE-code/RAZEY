@@ -30,8 +30,8 @@
 
 ## 제거
 
-razey_cleanup.ps1 파일 실행하고,
-exe 파일 제거하면 됩니다.
+razey_cleanup.bat 파일 실행하고,
+exe 파일 제거하면 됨
 
 시작 프로그램 등록 해제하는 스크립트에요.
 

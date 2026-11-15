@@ -1,0 +1,11 @@
+# Cargo Build Output
+razey/target/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.iml
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
